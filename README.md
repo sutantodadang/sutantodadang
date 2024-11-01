@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sutantodadang
 - 👀 I’m interested in Proggramming
-- 🌱 I’m currently learning Javascript , Dart & Golang
-- 💞️ I’m looking to collaborate on Mobile & Back End & Ai
+- 🌱 I’m currently learning Javascript , Dart, Python & Golang
+- 💞️ I’m looking to collaborate on Mobile & Back End & AI
 - 📫 How to reach me sutantodadang@gmail.com
 
 <!---
